@@ -12,4 +12,4 @@
 
 ## Instructions to run the app
 
--npm install
+-npm install 
