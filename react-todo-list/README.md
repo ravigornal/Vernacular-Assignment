@@ -9,3 +9,7 @@
 
 - ReactJS
 - Material-UI
+
+## Instructions to run the app
+
+-npm install
